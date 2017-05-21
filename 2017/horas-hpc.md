@@ -9,6 +9,8 @@ utilizadas en enero, febrero, marzo y abril del 2017.
 | Biologia| 112486|
 | Ing. Mecanica| 62910|
 | Fisica | 21700|
-| Biomedica| 1558|
+| Ing. Electronica | 14770|
+| Ing. Civil-Ambiental| 3198|
+| Ing. Biomedica| 1558|
 | Matematica | 647|
 | Geociencias | 17|
