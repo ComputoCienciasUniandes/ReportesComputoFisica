@@ -50,19 +50,21 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   institucional de Uniandes.  
   
 
-* Métodos Computacionales. Dos secciones de 20 estudiantes. 
+* Métodos Computacionales. Curso de 3+1 créditos en quinto semestre. Dos secciones de 20 estudiantes. 
   Dictado por un profesor de cátedra (Veronica Arias). Orientado a métodos numéricos básicos de algebra lineal,
   ecuaciones diferenciales y Monte Carlo. Lenguajes: C y Python. [Repositorio del
   curso](https://github.com/ComputoCienciasUniandes/MetodosComputacionales).
 
-* Métodos Computacionales Avanzados. Electiva. 25 estudiantes (22
+* Métodos Computacionales Avanzados. Electiva de 3 créditos. 25 estudiantes (22
   pregrado, 3 postgrado). Dictado por un profesor de planta (Jaime
   Forero). Orientado a ecuaciones diferenciales, machine learning y
   cómputo masivamente paralelo [Repositorio del
   curso](https://github.com/ComputoCienciasUniandes/MetodosComputacionalesAvanzados). 
   
 * Python Bootcamp. Cursos intensivos de Python. 
-  El primero se hizo en el 2016 con 20 estudiantes del departamento de Física. 
+  Orientado a aprender los fundamentos de Python con algunos ejemplos de 
+  aplicación en estadística y machine learning.
+  El primero se hizo en Energo del 2016 con 20 estudiantes del departamento de Física. 
   El segundo se hizo en Abril del 2017 en conjunto con Ingeniería con 350 preinscritos, 
   90 participantes (50 de Uniandes, 40 externos). En el segundo bootcamp tuvimos
   estudiantes de todas las carreras. [Pagina del Python Bootcamp Uniandes](https://pythonbootcampuniandes.github.io/).  
