@@ -69,7 +69,12 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   90 participantes (50 de Uniandes, 40 externos). En el segundo bootcamp tuvimos
   estudiantes de todas las carreras. [Pagina del Python Bootcamp Uniandes](https://pythonbootcampuniandes.github.io/).  
   
-
+ * Evaluación de impacto.
+   En los cursos computacionales ahora hacemos una evaluación de impacto.
+   En la primera semana hacemos un examen de diagnóstico y en la última semana
+   repetimos un examen similar para evaluar el cambio con respecto a la primera semana.
+   
+   ![Caso de Herramientas](https://raw.githubusercontent.com/ComputoCienciasUniandes/ReportesComputoFisica/master/2017/diagnostico-herramientas.png)
 
 
 
