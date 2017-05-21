@@ -65,7 +65,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   El primero se hizo en el 2016 con 20 estudiantes del departamento de Física. 
   El segundo se hizo en Abril del 2017 en conjunto con Ingeniería con 350 preinscritos, 
   90 participantes (50 de Uniandes, 40 externos). En el segundo bootcamp tuvimos
-  estudiantes de todas las carreras. 
+  estudiantes de todas las carreras. [Pagina del Python Bootcamp Uniandes](https://pythonbootcampuniandes.github.io/).  
   
 
 
