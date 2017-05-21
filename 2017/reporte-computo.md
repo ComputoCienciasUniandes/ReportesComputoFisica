@@ -10,7 +10,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
 * Herramientas Computacionales. 
   Curso de 1 crédito en segundo semestre.
   120 estudiantes en 6 secciones.
-  
+  Orientado a aprender Python para hacer gráficas y ajustes.
   Nuevo método de enseñanza desde el 2015-20. 
   Los estudiantes ven en video los temas correspondientes
   a la clase y llegan a resolver dudas y hacer ejercicios.
@@ -19,7 +19,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
 
   - En promedio cada video ha sido visto 1500 veces en youtube.  
   - Con cerca de 22000 vistas en total, el curso estaría en el
-  top 20 de videos más vistas del canal institucional de Uniandes.  
+  top 20 de videos con más vistas del canal institucional de Uniandes.  
   - Cada video tiene más vistas que el 90% de videos del canal 
   institucional de Uniandes.  
   
