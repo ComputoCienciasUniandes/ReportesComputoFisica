@@ -50,13 +50,13 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   institucional de Uniandes.  
   
 
-* Métodos Computacionales. 25 estudiantes. Dictado por un profesor de cátedra (Germán
-  Chaparro). Orientado a métodos numéricos básicos de algebra lineal,
+* Métodos Computacionales. Dos secciones de 20 estudiantes. 
+  Dictado por un profesor de cátedra (Veronica Arias). Orientado a métodos numéricos básicos de algebra lineal,
   ecuaciones diferenciales y Monte Carlo. Lenguajes: C y Python. [Repositorio del
   curso](https://github.com/ComputoCienciasUniandes/MetodosComputacionales).
 
-* Métodos Computacionales Avanzados. Electiva. 25 estudiantes (13
-  pregrado, 12 postgrado). Dictado por un profesor de planta (Jaime
+* Métodos Computacionales Avanzados. Electiva. 25 estudiantes (22
+  pregrado, 3 postgrado). Dictado por un profesor de planta (Jaime
   Forero). Orientado a ecuaciones diferenciales, machine learning y
   cómputo masivamente paralelo [Repositorio del
   curso](https://github.com/ComputoCienciasUniandes/MetodosComputacionalesAvanzados). 
