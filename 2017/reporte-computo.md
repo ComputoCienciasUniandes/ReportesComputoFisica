@@ -3,12 +3,14 @@
 
 Autor: Jaime Forero
 
-Fecha: Compartido en el Consejo del Departamento de Física (Lunes 4 Abril, 2016)
+Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 2016)
 
 ## Cursos computacionales 
 
 * Herramientas Computacionales. 
   Curso de 1 crédito en segundo semestre.
+  120 estudiantes en 6 secciones.
+  
   Nuevo método de enseñanza desde el 2015-20. 
   Los estudiantes ven en video los temas correspondientes
   a la clase y llegan a resolver dudas y hacer ejercicios.
