@@ -12,13 +12,14 @@ Fecha: Compartido en el Consejo del Departamento de Física (Lunes 4 Abril, 2016
   Nuevo método de enseñanza desde el 2015-20. 
   Los estudiantes ven en video los temas correspondientes
   a la clase y llegan a resolver dudas y hacer ejercicios.
-  Preparamos 15 videos de 15 minutos de duración cada uno. 
-  - En promedio cada video ha sido visto 1500 veces en youtube.
-  - Con cerca de 22000 vistas en total, el curso estaría en el 
-  top 20 de videos más vistas del canal institucional de Uniandes.
-  - Cada video tiene más vistas que el 90% de videos del canal 
-  institucional de Uniandes.
-  [Lista de videos y sus estadísticas](https://github.com/ComputoCienciasUniandes/HerramientasComputacionales/blob/master/estadisticas-videos.md).
+  Preparamos 15 videos de 15 minutos de duración cada uno.
+
+  - En promedio cada video ha sido visto 1500 veces en youtube.  
+  - Con cerca de 22000 vistas en total, el curso estaría en el
+  top 20 de videos más vistas del canal institucional de Uniandes.  
+  - Cada video tiene más vistas que el 90% de videos del canal 
+  institucional de Uniandes.  
+  [Lista de videos y sus estadísticas](https://github.com/ComputoCienciasUniandes/HerramientasComputacionales/blob/master/estadisticas-videos.md).  
 
 * Métodos Computacionales. 25 estudiantes. Dictado por un profesor de cátedra (Germán
   Chaparro). Orientado a métodos numéricos básicos de algebra lineal,
