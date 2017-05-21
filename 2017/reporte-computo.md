@@ -27,8 +27,9 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   Silvia salga de vicerrectoría. No esta claro si la sostenibiidad va a depender
   de Vicerrectoría, Facultados o Profesores.
 
-* Para nuevas cuentas: ```coordinadorhpc```. Actualmente el
-  coordinador es Juan Pablo Mallarino.
+* [Numero de usuarios por departamento](https://github.com/ComputoCienciasUniandes/ReportesComputoFisica/blob/master/2017/usuarios-hpc.md)    
+* [Horas de CPU utilizadas por departamento](https://github.com/ComputoCienciasUniandes/ReportesComputoFisica/blob/master/2017/horas-hpc.md)  
+
 
 ## Cursos computacionales 
 
@@ -62,7 +63,9 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   
 * Python Bootcamp. Cursos intensivos de Python. 
   El primero se hizo en el 2016 con 20 estudiantes del departamento de Física. 
-  El segundo se hizo en Abril del 2017 en conjunto con Ingeniería.
+  El segundo se hizo en Abril del 2017 en conjunto con Ingeniería con 350 preinscritos, 
+  90 participantes (50 de Uniandes, 40 externos). En el segundo bootcamp tuvimos
+  estudiantes de todas las carreras. 
   
 
 
