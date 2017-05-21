@@ -35,7 +35,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
 
 * Herramientas Computacionales. 
   Curso de 1 crédito en segundo semestre.
-  120 estudiantes en 6 secciones.
+  130 estudiantes en 6 secciones.
   Orientado a aprender Python para hacer gráficas y ajustes.
   Nuevo método de enseñanza desde el 2015-20. 
   Los estudiantes ven en video los temas correspondientes
