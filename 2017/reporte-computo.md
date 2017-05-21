@@ -35,7 +35,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
 
 * Herramientas Computacionales. 
   Curso de 1 crédito en segundo semestre.
-  130 estudiantes en 6 secciones.
+  100 estudiantes en 6 secciones.
   Orientado a aprender Python para hacer gráficas y ajustes.
   Nuevo método de enseñanza desde el 2015-20. 
   Los estudiantes ven en video los temas correspondientes
@@ -55,8 +55,8 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   ecuaciones diferenciales y Monte Carlo. Lenguajes: C y Python. [Repositorio del
   curso](https://github.com/ComputoCienciasUniandes/MetodosComputacionales).
 
-* Métodos Computacionales Avanzados. Electiva de 3 créditos. 25 estudiantes (22
-  pregrado, 3 postgrado). Dictado por un profesor de planta (Jaime
+* Métodos Computacionales Avanzados. Electiva de 3 créditos. 24 estudiantes (19
+  pregrado, 5 posgrado). Dictado por un profesor de planta (Jaime
   Forero). Orientado a ecuaciones diferenciales, machine learning y
   cómputo masivamente paralelo [Repositorio del
   curso](https://github.com/ComputoCienciasUniandes/MetodosComputacionalesAvanzados). 
