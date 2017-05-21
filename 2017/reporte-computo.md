@@ -25,7 +25,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   espacio de disco?). Existía un comité en Ciencias pero no sabemos si 
   hay acuerdos de servicios funcionando o quién tomaría decisiones cuando
   Silvia salga de vicerrectoría. No esta claro si la sostenibiidad va a depender
-  de Vicerrectoría, Facultados o Profesores.
+  de Vicerrectoría, Facultades o Profesores.
 
 * [Numero de usuarios por departamento](https://github.com/ComputoCienciasUniandes/ReportesComputoFisica/blob/master/2017/usuarios-hpc.md)    
 * [Horas de CPU utilizadas por departamento](https://github.com/ComputoCienciasUniandes/ReportesComputoFisica/blob/master/2017/horas-hpc.md)  
