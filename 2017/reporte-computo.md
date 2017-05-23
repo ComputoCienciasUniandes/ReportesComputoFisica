@@ -3,7 +3,7 @@
 
 Autor: Jaime Forero
 
-Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 2016)
+Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 2017)
 
 ## Compufísica 
 
@@ -24,7 +24,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
   (i.e. ¿cómo se decide si se compran nuevos procesadores o más
   espacio de disco?). Existía un comité en Ciencias pero no sabemos si 
   hay acuerdos de servicios funcionando o quién tomaría decisiones cuando
-  Silvia salga de vicerrectoría. No esta claro si la sostenibiidad va a depender
+  Silvia salga de vicerrectoría. No esta claro si la sostenibilidad va a depender
   de Vicerrectoría, Facultades o Profesores.
 
 * [Numero de usuarios por departamento](https://github.com/ComputoCienciasUniandes/ReportesComputoFisica/blob/master/2017/usuarios-hpc.md)    
@@ -64,7 +64,7 @@ Fecha: Compartido en el Consejo del Departamento de Física (Martes 23 Mayo, 201
 * Python Bootcamp. Cursos intensivos de Python. 
   Orientado a aprender los fundamentos de Python con algunos ejemplos de 
   aplicación en estadística y machine learning.
-  El primero se hizo en Energo del 2016 con 20 estudiantes del departamento de Física. 
+  El primero se hizo en Enero del 2016 con 20 estudiantes del departamento de Física. 
   El segundo se hizo en Abril del 2017 en conjunto con Ingeniería con 350 preinscritos, 
   90 participantes (50 de Uniandes, 40 externos). En el segundo bootcamp tuvimos
   estudiantes de todas las carreras. [Pagina del Python Bootcamp Uniandes](https://pythonbootcampuniandes.github.io/).  
